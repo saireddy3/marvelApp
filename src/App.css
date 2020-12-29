@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+.profile {
+  margin-top: 50px;
+}
+.searchInput {
+  width: 500px;
+  height: 50px;
+  padding:10px
+}
+.main {
+  margin-top: 50px;
+  padding: 20px;
+}
